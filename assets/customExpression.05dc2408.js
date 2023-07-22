@@ -1,0 +1,1 @@
+function e(u){return u||(u="\u671D\u9633\u533A"),`\u5317\u4EAC\u5E02 ${u}`}function t(u){return u||(u="\u5F20\u4E09"),`\u60A8\u597D\uFF0C\u6211\u53EB\uFF1A ${u}`}const o=Object.freeze(Object.defineProperty({__proto__:null,demoFieldDefVal_getAddress:e,sayHi:t},Symbol.toStringTag,{value:"Module"}));export{o as C};

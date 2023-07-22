@@ -1,0 +1,1 @@
+const t=[{field:"ip",component:"Input",label:"IP\u5730\u5740",defaultValue:"",required:!0},{field:"port",component:"InputNumber",label:"\u7AEF\u53E3",defaultValue:"80",required:!0}],l=[{field:"serialNo",component:"Input",label:"\u5E8F\u5217\u53F7",required:!0}];class a{}export{a as default,t as step1Schemas,l as step2Schemas};
